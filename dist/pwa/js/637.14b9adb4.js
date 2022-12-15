@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkquasar_project"]=globalThis["webpackChunkquasar_project"]||[]).push([[637],{7637:(a,r,s)=>{s.r(r),s.d(r,{default:()=>d});var e=s(9835);const n={class:"row"};function c(a,r,s,c,o,t){return(0,e.wg)(),(0,e.iD)("div",n,"Dashboard")}const o=(0,e.aZ)({name:"IndexPage"});var t=s(1639);const u=(0,t.Z)(o,[["render",c]]),d=u}}]);
