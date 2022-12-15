@@ -1,0 +1,71 @@
+// app global css in SCSS form
+
+.routerLink {
+  text-decoration: none !important;
+  color: $Text-Light;
+  //   background-color: $Grey-dark;
+  //   border: 1px solid $Grey-dark;
+  display: flex;
+  justify-content: left;
+  transition-duration: 1.4s;
+  //   width: 100%;
+}
+.routerLink :hover {
+  color: $Text-Light;
+  background-color: $Navy-dark;
+}
+.routerItem {
+  width: 100%;
+  text-align: left;
+}
+.headerToolbar {
+  background-color: $Navy-dark;
+}
+.drawerList {
+  background-color: $Navy-dark;
+  color: $Text-Light;
+}
+.pageColor {
+  background-color: $White-Light;
+  color: $Grey-dark;
+}
+.signInMain {
+  background-color: $Navy-dark;
+  color: $Text-Light;
+}
+.textDark {
+  color: $Navy-dark;
+}
+.textLight {
+  color: $Text-Light;
+}
+.buttonLight {
+  color: $Text-Light;
+  background-color: $Teal-dark;
+  border-radius: 5px;
+}
+.buttonDark {
+  color: $Text-Light;
+  background-color: $Navy-dark;
+  border-radius: 5px;
+}
+.inputLight {
+  color: $Navy-dark;
+  background-color: $Text-Light;
+  border-radius: 5px;
+}
+.signInCard {
+  background-color: $Navy-dark;
+  border-radius: 6px !important;
+  box-shadow: 2px 2px 5px 5px $Grey-dark;
+}
+.loaderLight {
+  color: $Teal-dark;
+}
+.loaderDark {
+  color: $Navy-dark;
+}
+
+.footerLabel {
+  color: $Navy-dark;
+}

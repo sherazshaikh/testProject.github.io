@@ -1,0 +1,46 @@
+// It's highly recommended to change the default colors
+// to match your app's branding.
+
+//theme colors
+
+$Navy-dark: #002b5b;
+$Grey-dark: #2b4865;
+$Teal-dark: #256d85;
+$Teal-light: #8fe3cf;
+
+$font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+  "Helvetica Neue", Arial, sans-serif;
+
+$font-light: 300;
+$font-regular: 400;
+$font-bold: 600;
+$font-extraBold: 700;
+$font-black: 900;
+
+$primary: #027be3;
+$secondary: #26a69a;
+$accent: #9c27b0;
+
+$dark: #1d1d1d;
+
+$positive: #21ba45;
+$negative: #c10015;
+$info: #31ccec;
+$warning: #f2c037;
+
+// light mode
+$greyBlack: rgb(244, 244, 244);
+
+$blackBody: #ebedef;
+$indigoLight: #2a2b36;
+$indigoDark: #22222b;
+$headerTextColor: #ffffff99;
+$textColor: #2c384af2;
+$textColor: #000;
+$blueColor: #20a8d8;
+$primary: #20a8d8;
+$backgroundColor: #fff;
+
+$shadeColor: #f9fafa;
+
+@import "~quasar-variables-styl";
